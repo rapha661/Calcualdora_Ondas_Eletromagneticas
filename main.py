@@ -2,6 +2,7 @@ from math import *
 from tkinter import * 
 from tkinter import Button
 
+# desenvolvido por Raphael Garavati Erbert
 
 # interface para fazer as contas
 janela = Tk()
